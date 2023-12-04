@@ -1,6 +1,6 @@
 # TCP_UDP_Chat Project
 
-This project 
+This project is a network communication using UDP and TCP protocols. It includes both server and client implementations for both UDP and TCP, along with a multi-threaded TCP server.
 
 ## Project Structure
 
